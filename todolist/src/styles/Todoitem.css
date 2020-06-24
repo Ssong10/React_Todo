@@ -1,0 +1,14 @@
+.todoitem {
+    background-color:rgb(217, 247, 193);
+    height : 60px;
+    border : 1px black solid;
+}
+
+.select{
+    background-color:rgb(220, 241, 143);
+}
+
+.topright {
+    display : flex;
+    float : right;
+}
